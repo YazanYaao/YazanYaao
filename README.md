@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm a Software Engineer.
+
+I'm a Full-stack developer. I like using different technologies and AI tools to build applications.
+
+I also use Figma for design and modern AI workflows like Spec-kit and Impeccable.
+
+This is my profile where I upload projects, experiments, and things I'm currently working on.
 <!--
 **YazanYaao/YazanYaao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
